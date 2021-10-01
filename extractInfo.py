@@ -11,7 +11,13 @@ fuzzDir = ['/web-inf/web.xml',
 '/monitor',
 '/actuator',
 '/cookie',
-'/debug'
+'/debug',
+'/admin',
+'/manager/html',
+'/console',
+'/resin-admin',
+'/webadmin'
+
 ]
 
 urlList = []
